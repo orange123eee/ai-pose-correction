@@ -1,6 +1,8 @@
 *.mp4
 *.pptx
 *.docx
+make_ppt.py
+make_report.py
 __pycache__/
 .vscode/
 build/
