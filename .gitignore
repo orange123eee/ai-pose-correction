@@ -1,0 +1,8 @@
+*.mp4
+*.pptx
+*.docx
+__pycache__/
+.vscode/
+build/
+*.egg-info/
+.DS_Store

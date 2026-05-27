@@ -1,0 +1,7 @@
+mediapipe
+opencv-python
+fastdtw
+scipy
+pillow
+python-pptx
+python-docx
